@@ -10,7 +10,7 @@ The relevant datasets and model codes of this paper are summarized as follows.
 To validate the performance of BASM, a takeaway industrial dataset Ele.me and a public spatiotemporal recommendation dataset.
 
 
-Table I: The basic Statistics of datasets. \# denotes the number, and ML indicates the average length of user behavior sequences.
+Table I: The basic Statistics of datasets. \# denotes the number, and Mean Length indicates the average length of user behavior sequences.
 
 |          Datasets          | Total Size | Feature |  Users   |  Items  |  Clicks  | Mean Length of User Behaviors |
 | :------------------------: | :--------: | :-----: | :------: | :-----: | :------: | :---------------------------: |
@@ -47,5 +47,5 @@ The comparison models are shown in the table below:
 |         STAR          | [CIKM 2021][One model to serve all: Star topology adaptive recommender for multi-domain ctr prediction](https://arxiv.org/pdf/2101.11427.pdf) |
 |          APG          | [NeurIPS 2012][APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction](https://arxiv.org/pdf/2203.16218.pdf) |
 
-The source code of the comparison models can be seen in the models folder of this project.
+The source code of the comparison models can be seen in the **models folder** of this project.
 
