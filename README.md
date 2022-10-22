@@ -7,7 +7,7 @@ The relevant datasets and model codes of this paper are summarized as follows.
 
 ## 1. Datasets
 
-To validate the performance of BASM, a takeaway industrial dataset Ele.me and a public spatiotemporal recommendation dataset.
+To validate the performance of BASM, a takeaway industrial dataset Ele.me and a public spatiotemporal recommendation dataset. The experimental data set statistics are shown in Table I below:
 
 
 Table I: The basic Statistics of datasets.
