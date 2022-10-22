@@ -10,7 +10,7 @@ The relevant datasets and model codes of this paper are summarized as follows.
 To validate the performance of BASM, a takeaway industrial dataset Ele.me and a public spatiotemporal recommendation dataset.
 
 
-<center>Table I: The basic Statistics of datasets. \# denotes the number, and Mean Length indicates the average length of user behavior sequences.</center>
+Table I: The basic Statistics of datasets.
 
 |          Datasets          | Total Size | Feature |  Users   |  Items  |  Clicks  | Mean Length of User Behaviors |
 | :------------------------: | :--------: | :-----: | :------: | :-----: | :------: | :---------------------------: |
