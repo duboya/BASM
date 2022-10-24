@@ -38,14 +38,14 @@ Since the model is currently deployed in the Ele.me commercial food delivery sys
 
 The comparison models are shown in the table below:
 
-|         Model         | Paper                                                        |
-| :-------------------: | :----------------------------------------------------------- |
-|      Wide & Deep      | [DLRS 2016][Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf) |
-| Deep Interest Network | [KDD 2018][Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf) |
-|        AutoInt        | [CIKM 2019][AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921) |
+|         Model         | Paper                                                                                                                                                  |
+| :-------------------: |:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      Wide & Deep      | [DLRS 2016][Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)                                                        |
+| Deep Interest Network | [KDD 2018][Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf)                                              |
+|        AutoInt        | [CIKM 2019][AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks](https://arxiv.org/abs/1810.11921)                      |
 |          M2M          | [WSDM 2022][Leaving No One Behind: {A} Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling](https://arxiv.org/pdf/2201.06814.pdf) |
-|         STAR          | [CIKM 2021][One model to serve all: Star topology adaptive recommender for multi-domain ctr prediction](https://arxiv.org/pdf/2101.11427.pdf) |
-|          APG          | [NeurIPS 2012][APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction](https://arxiv.org/pdf/2203.16218.pdf) |
+|         STAR          | [CIKM 2021][One model to serve all: Star topology adaptive recommender for multi-domain ctr prediction](https://arxiv.org/pdf/2101.11427.pdf)          |
+|          APG          | [NeurIPS 2022][APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction](https://arxiv.org/pdf/2203.16218.pdf)                     |
 
 The source code of the comparison models can be seen in the **models folder** of this project.
 
